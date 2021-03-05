@@ -37,6 +37,7 @@
 
 .form input:hover{
 	background-color: #ccc;
+	border-radius: 10px;
 }
 
 .form button{
